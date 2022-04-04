@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LELONG_cansongsong", "PROJECT_LELONG_MODBUS_VB_PROFACE_REV1\LELONG_cansongsong.csproj", "{749CA060-AA1A-4BAB-8B70-A55B30FE19B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{749CA060-AA1A-4BAB-8B70-A55B30FE19B4}.Debug|x86.ActiveCfg = Debug|x86
+		{749CA060-AA1A-4BAB-8B70-A55B30FE19B4}.Debug|x86.Build.0 = Debug|x86
+		{749CA060-AA1A-4BAB-8B70-A55B30FE19B4}.Release|x86.ActiveCfg = Release|x86
+		{749CA060-AA1A-4BAB-8B70-A55B30FE19B4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3678874C-7755-41F7-93F6-829B140ED3EB}
+	EndGlobalSection
+EndGlobal
