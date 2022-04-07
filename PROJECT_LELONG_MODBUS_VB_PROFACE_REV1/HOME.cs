@@ -1041,6 +1041,7 @@ namespace PROJECT_LELONG_MODBUS_VB_PROFACE_REV1
         {
             baocaobangdulieu F = new baocaobangdulieu();
             F.Show();
+            //test kết nối
         }  
 
         private void btn_baocaoexcel_Click(object sender, EventArgs e)  
