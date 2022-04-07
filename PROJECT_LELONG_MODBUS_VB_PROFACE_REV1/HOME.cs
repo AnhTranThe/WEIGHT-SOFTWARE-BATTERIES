@@ -46,7 +46,7 @@ namespace PROJECT_LELONG_MODBUS_VB_PROFACE_REV1
         public string filepath;
 
         
-     
+     // test xem thay đổi những gì
 
         System.Data.DataTable tbl_baocaodulieu_May1_Ca1 = new System.Data.DataTable();
         System.Data.DataTable tbl_baocaodulieu_May1_Ca2 = new System.Data.DataTable();
@@ -1041,6 +1041,7 @@ namespace PROJECT_LELONG_MODBUS_VB_PROFACE_REV1
         {
             baocaobangdulieu F = new baocaobangdulieu();
             F.Show();
+            //test kết nối
         }  
 
         private void btn_baocaoexcel_Click(object sender, EventArgs e)  

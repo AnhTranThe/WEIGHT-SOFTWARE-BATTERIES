@@ -57,7 +57,7 @@ namespace PROJECT_LELONG_MODBUS_VB_PROFACE_REV1
        
         private void baocaobangdulieu_Load(object sender, EventArgs e)
         {
-           
+            //test xem sự thay đổi
             try
             {
                 
