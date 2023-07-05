@@ -18,32 +18,35 @@ CPU: Intel(R) Pentium(R) III 500MHz or faster processor
 - Make sure the cable connects between the HMI monitor and the PC via a LAN cable.
 
  #### PREPARE BEFORE START PROGRAM
- ![image](https://github.com/AnhTranThe/WEIGHT-SOFTWARE-BATTERIES/assets/92661883/3cdda9a7-3551-4008-a219-7cf0f49c355c)
-
- - Make sre your computer was installed  Pro- Studio EX
+![image](https://github.com/AnhTranThe/WEIGHT-SOFTWARE-BATTERIES/assets/92661883/151d905e-7f2d-4139-a638-0c1b7feb3f9f)
+(1) File install program exe
+(2) File source HMI Panel
+(3) File inject Prostudio-Ex
+(4) File run OPC
+ - Make sure your computer was installed  Pro- Studio EX
  - Download HMI source to HMI Panel through Lan Cable
  - Inject config_gp4501TW into program Pro- Studio EX
  - Open visual studio and start program.
 
 #### START PROGRAM
 1. Home screen
-  ![image](https://github.com/AnhTranThe/WEIGHT-SOFTWARE-BATTERIES/assets/92661883/c3a32a01-7b2c-46ca-b31b-57cf532c7234)
 
+![image](https://github.com/AnhTranThe/WEIGHT-SOFTWARE-BATTERIES/assets/92661883/12147311-74c4-4da0-983f-f374c4fcee83)
 
 
 3. Real time logging data 
-![image](https://github.com/AnhTranThe/WEIGHT-SOFTWARE-BATTERIES/assets/92661883/548ef751-7f0a-47a6-b446-16ee1c9a30fd)
+![image](https://github.com/AnhTranThe/WEIGHT-SOFTWARE-BATTERIES/assets/92661883/315138fd-35f6-463a-b0bc-30d1d07f8206)
 
 4. Report data history by shift 
-![image](https://github.com/AnhTranThe/WEIGHT-SOFTWARE-BATTERIES/assets/92661883/537ab4af-c220-4801-8ec6-ab35fafaeee8)
+![image](https://github.com/AnhTranThe/WEIGHT-SOFTWARE-BATTERIES/assets/92661883/cca64ab1-d0ed-4171-97c7-8ce871db89e8)
 
 5. Report chart history by shift
-![image](https://github.com/AnhTranThe/WEIGHT-SOFTWARE-BATTERIES/assets/92661883/093986e9-8e0d-423d-ae5f-2279bc70bc93)
+![image](https://github.com/AnhTranThe/WEIGHT-SOFTWARE-BATTERIES/assets/92661883/2ab695db-fbf9-4199-9933-8da0287d8bc2)
 
 6. Change profile user and configure directory to save excel report 
-![image](https://github.com/AnhTranThe/WEIGHT-SOFTWARE-BATTERIES/assets/92661883/c245fbaa-4449-4237-b68b-51b7baa86a78)
+![image](https://github.com/AnhTranThe/WEIGHT-SOFTWARE-BATTERIES/assets/92661883/90d27fd8-4dfe-4a51-885e-74ea05d0b12b)
 
-![image](https://github.com/AnhTranThe/WEIGHT-SOFTWARE-BATTERIES/assets/92661883/0b207410-c5ba-40e0-b1f0-d6e86d7cfbe3)
+![image](https://github.com/AnhTranThe/WEIGHT-SOFTWARE-BATTERIES/assets/92661883/bc5b8b83-10da-489c-bead-a8d27efc3bcb)
 
-![image](https://github.com/AnhTranThe/WEIGHT-SOFTWARE-BATTERIES/assets/92661883/ec3a884f-dfb7-4b85-a1e1-c779a69c7e76)
+![image](https://github.com/AnhTranThe/WEIGHT-SOFTWARE-BATTERIES/assets/92661883/d27e5c8f-ffb0-47b5-b475-feebfca8bf80)
 
