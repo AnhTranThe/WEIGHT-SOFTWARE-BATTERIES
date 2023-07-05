@@ -6,8 +6,7 @@
 - Save and export excel file by shift every day.
 - The value will be displayed in the form of a chart for observation, when there is a problem, send an email to take action.
 
-![image](https://github.com/AnhTranThe/WEIGHT-SOFTWARE-BATTERIES/assets/92661883/b1980647-cce0-497e-a795-d0920e5e86fe)
-
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/AnhTranThe/WEIGHT-SOFTWARE-BATTERIES/issues/1#issue-1788738283))
 
 #### SYSTEM REQUIREMENT
 
